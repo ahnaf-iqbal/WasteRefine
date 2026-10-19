@@ -9,6 +9,18 @@
 
 ---
 
+## 🎓 About This Research
+
+This repository hosts the academic research portfolio for **WasteRefine**, an undergraduate thesis and conference research initiative conducted at **BRAC University** (Department of Computer Science and Engineering).
+
+- **Project Type:** Academic Thesis & Conference Research (IEEE Submission)
+- **Research Focus:** Computer Vision, Self-Supervised Learning (SSL), Boundary-Aware Semantic Segmentation, Environmental Sustainability
+- **Lead Contributors:** Md. Ahnaf Iqbal, Talha Islam Khan, Trisha Das, Farhan Tawseef
+- **Supervision:** Dr. Md. Golam Rabiul Alam (Supervisor), Nirjhor Datta (Co-Supervisor)
+- **Primary Goal:** Developing high-precision, parameter-efficient vision models for automated recyclable waste sorting and establishing the first dedicated waste semantic segmentation benchmark from Bangladesh.
+
+---
+
 ## 📌 Overview
 
 Automated waste sorting and intelligent recycling systems face significant bottlenecks due to visual ambiguities, severe class imbalance, deformed objects, and the scarcity of real-world annotated datasets. 
